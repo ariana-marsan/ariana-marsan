@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and css
 - 📫 How to reach me arianamarsan01@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm currently studying biological sciences at the UBA
+- ⚡ Fun fact: I'm currently studying biological sciences at UBA
 
 <!---
 ariana-marsan/ariana-marsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
