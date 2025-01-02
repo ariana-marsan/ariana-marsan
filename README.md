@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariana-marsan
 - 👀 I’m interested in web coding
-- 🌱 I’m currently learning javascript and css
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me arianamarsan01@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm currently studying biological sciences at UBA
